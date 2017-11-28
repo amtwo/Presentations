@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Shortcuts Demo", "Shortcuts Demo\Shortcuts Demo.ssmssqlproj", "{6A2D776D-04E2-476F-ACC2-59BDA84B9106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2D776D-04E2-476F-ACC2-59BDA84B9106}.Default|Default.ActiveCfg = Default
+		{B22EF474-1E7D-4462-9BF1-3E52091F9FF7}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
