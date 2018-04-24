@@ -62,8 +62,8 @@
           <FullPath>25_ExecuteAsLogin.sql</FullPath>
         </FileNode>
         <FileNode Name="28_ServiceAccount.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>28_ServiceAccount.sql</FullPath>
         </FileNode>
