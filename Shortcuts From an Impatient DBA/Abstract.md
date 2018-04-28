@@ -1,4 +1,4 @@
-# Demystify Data Compression
+# Shortcuts from an Impatient DBA
 
 ### Abstract
 This session is about performance tuning your day. 
