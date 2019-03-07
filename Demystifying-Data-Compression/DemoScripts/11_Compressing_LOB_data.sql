@@ -66,7 +66,7 @@ GO
 
 CREATE VIEW dbo.Documents
 AS
-SELECT DocID, Cols, DECOMPRESS(CompressedDocText) AS DocText
+SELECT DocID, Cols, UNCOMPRESS(CompressedDocText) AS DocText
 FROM dbo.DocumentsBase
 GO
 
