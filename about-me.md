@@ -1,7 +1,7 @@
 # About Andy 
 
-Andy is a Data Platform MVP and Product Manager responsible for Data Performance Management at SentryOne. His background is as a SQL Server DBA that has managed databases across many industry sectors, and before that in database-oriented tech support. Since 2003, Andy has worked with high-volume, highly-available OLTP environments with demanding performance needs. 
+Andy is a Data Platform MVP and SQL Server DBA that has managed databases in the healthcare, finance, e-commerce, and non-profit sectors. He has been supporting high-volume, highly-available OLTP environments with demanding performance needs since 2003.
 
-Andy is also the founder of the BostonSQL User Group , and past organizer of SQLSaturday events in Boston. He blogs at am2.co, blogs.sentryone.com, and SqlPerformance.com.
+Andy is also co-organizer of SQL Saturday events in Boston, and the founder of the BostonSQL User Group. He blogs at am2.co, and as a guest blogger at SqlPerformance.com. 
 
 Andy lives just outside Boston, Massachusetts, USA with his husband and their two dogs.
