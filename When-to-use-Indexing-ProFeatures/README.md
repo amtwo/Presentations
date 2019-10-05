@@ -1,4 +1,4 @@
-# When to use Indexing ProTools
+# When to use indexing pro features
 
 ### Abstract
 Using the right index for the right scenario can be the "go fast" button that keeps queries and customers happy. 
