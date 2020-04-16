@@ -38,4 +38,4 @@ Use this one for thumbnails, and other places where "head and shoulders only" is
 </table>
 
 -------------------------------------------------
-Photos by Conor Olmstead | COPhotos.net
+Photos by Conor Olmstead | [COPhotos.net](COPhotos.net)
