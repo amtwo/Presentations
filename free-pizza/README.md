@@ -1,10 +1,8 @@
-# When to use indexing pro features
+# FREE PIZZA & BEER!!  (and other mistakes we make in building an inclusive community)
 
 ### Abstract
-Using the right index for the right scenario can be the "go fast" button that keeps queries and customers happy. 
+Let's talk about what it means to build an inclusive community, where folks from diverse backgrounds can come together. 
 
-Over the years, Microsoft has given us many different indexing options and flavors. Today there are many more considerations beyond "clustered or non clustered". We'll cover all those different flavor options: Filtered, Compressed, Columnstore, included columns, and Partitioning. 
+I don't need to provide dozens of studies and academic works to tell you there is a problem. In this session, we'll move past that. We'll talk about real experiences of feeling excluded, of feeling a sense of otherness. Rather than getting hung up on defining terms like "equity" and "intersectionality" through their (boring) dictionary definitions, we'll try to define them through a series of stories. 
 
-We'll cover an overview of what each of these options are, and then dive into some code examples to see how and when each of these work, and when the don't. 
-
-You will leave the session with a much better idea of how and when to use each of these special indexing flavors to meet your needs.
+For this session, bring both your own personal experience, and an openness to accept the lived experiences of others. We will talk about how you can approach conversations, experiences, and communities in a more inclusive way, so that we can all do our part in building a more welcoming place to be.
