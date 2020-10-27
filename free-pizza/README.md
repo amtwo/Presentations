@@ -1,4 +1,5 @@
-# FREE PIZZA & BEER!!  (and other mistakes we make in building an inclusive community)
+# FREE PIZZA & BEER!!  
+## (and other mistakes we make in building an inclusive community)
 
 ### Abstract
 Let's talk about what it means to build an inclusive community, where folks from diverse backgrounds can come together. 
