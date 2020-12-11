@@ -6,3 +6,5 @@ SQL Server 2016 SP1 and newer makes data compression available in all editions. 
 Come learn about how data compression actually works, the differences between ROW and PAGE compression, and learn how to pick the best compression level for your data. This session will cover the details of the compression algorithms, and the costs and benefits associated with each type of compression.
 
 By the end of this session, you’ll have a better idea of how the different compression algorithms work, when compression is the right solution, as well as what type of compression to use.
+
+Course materials are available at [am2.co/data-compression](https://am2.co/data-compression).
